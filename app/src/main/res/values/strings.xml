@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitApiSimpleDemo</string>
+    <string name="str_nameHint">Enter Your Name</string>
+    <string name="str_jobHint">Enter Your Job</string>
+    <string name="str_btnSentAPI">Send Data To API</string>
+    <string name="str_responce">Responce</string>
+</resources>
